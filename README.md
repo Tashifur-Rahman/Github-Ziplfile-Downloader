@@ -67,7 +67,7 @@ No frameworks. No build steps. No database. Just Node.
 **1. Clone the repo**
 ```bash
 git clone https://github.com/Tashifur-Rahman/Github-Ziplfile-Downloader.git
-cd ghzip
+cd ZIPFILE_DOWNLOADER
 ```
 
 **2. Install dependencies**
